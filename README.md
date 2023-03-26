@@ -26,9 +26,9 @@ iii. Makes salary payment.
 iv. Manages salary issues.
 v. Generates reports of payments.
 
-The system has similar tasks that are similar
+The system has similar tasks that are common
 hence I decided to make some of the most important
-once.
+ones.
 
 You are free to add to these list of breakdown of 
 the categories and their functions.![SMAAPTAL SMS Flowchart1](https://user-images.githubusercontent.com/20608392/227770702-4eb83a90-e984-40a6-920b-749157f9509b.JPG)
